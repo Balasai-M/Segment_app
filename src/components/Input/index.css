@@ -1,0 +1,27 @@
+.Input-container {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: flex-start;
+    position: absolute;
+    row-gap: 50px;
+    height: 60px;
+}
+.input {
+    width: 95%;
+    padding: 10px 30px !important;
+    border: 1.5px solid #CDCDCD;
+    border-radius: 30px;
+    outline: none !important;
+    font-size: 14px;
+    color: black;    
+}
+.HR-input-name-block {
+    margin-left: 15px;
+    font-size: 12px !important;
+    position: relative;
+    
+}
+.input-name-block {
+    margin-bottom: -36px !important;
+}

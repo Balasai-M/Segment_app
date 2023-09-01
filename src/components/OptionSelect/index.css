@@ -1,0 +1,32 @@
+.HR-option-select-container {
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.HR-option-select {
+    width: 100% !important;
+    outline: none !important;
+}
+.css-qc6sy-singleValue {
+    font-size: 12px !important;
+}
+.tss-1vsygk-MUIDataTableFilterList-root {
+    display: -webkit-box !important;
+    display: -webkit-flex !important;
+    display: -ms-flexbox !important;
+    display: flex !important;
+    -webkit-box-pack: left !important;
+    -ms-flex-pack: left !important;
+    -webkit-justify-content: left !important;
+    justify-content: left !important;
+    -webkit-box-flex-wrap: wrap !important;
+    -webkit-flex-wrap: wrap !important;
+    -ms-flex-wrap: wrap !important;
+    flex-wrap: wrap !important;
+    margin: 0px 16px 20px 0px !important;
+    column-gap: 10px !important;
+}
+
+

@@ -1,0 +1,12 @@
+.modal-con {
+    width: 460px;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Main-dialog{
+    width: 2300px !important;
+    height: 750px !important;
+    border-radius: 20px;
+}
